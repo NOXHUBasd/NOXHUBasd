@@ -187,8 +187,8 @@ DiscordServer_box.Size = UDim2.new(0, 194, 0, 35)
 DiscordServer_box.ClearTextOnFocus = false
 DiscordServer_box.Font = Enum.Font.SourceSans
 DiscordServer_box.PlaceholderColor3 = Color3.fromRGB(255, 255, 255)
-DiscordServer_box.PlaceholderText = "https://discord.gg/TeyfXf9pBD"
-DiscordServer_box.Text = "https://discord.gg/TeyfXf9pBD"
+DiscordServer_box.PlaceholderText = "https://discord.gg/RGzxAMDjB4"
+DiscordServer_box.Text = "https://discord.gg/RGzxAMDjB4"
 DiscordServer_box.TextColor3 = Color3.fromRGB(255, 255, 255)
 DiscordServer_box.TextSize = 14.000
  
